@@ -59,25 +59,26 @@
 @media only screen and (min-width: 768px) {
 	.btn {
 		font-size: 2.5rem;
-		padding: 20px 60px;
+		padding: 20px 
+			40px;
 	}
 	h1.section-title {
 		font-size: 6rem;
 	}
 
-	/* Hero */
+	/* ved */
 	#ved h1 {
 		font-size: 7rem;
 	}
-	/* End Hero */
+	/* End ved*/
 
-	/* Services Section */
+
 	#hobby .hobby-bottom .hobby-item {
 		flex-basis: 45%;
 		margin: 2.5%;
     overflow: hidden;
 	}
-	/* End Services Section */
+	
 
 	/* Project */
 	#projects .project-item {
